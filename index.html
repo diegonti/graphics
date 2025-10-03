@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graphics</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="assets/img/favicon.png" rel="icon">
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- GLightbox CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
+
+</head>
+<body>
+    <header>
+        <h1>My Graphics Collection</h1>
+    </header>
+
+    <div class="nav-links">
+        <br>
+        <a href="https://diegonti.github.io" class="main-page-link">Visit My Main Page</a>
+    </div>
+
+    <!-- Filter Controls -->
+    <div class="controls">
+        <button class="filter-btn active" data-filter="*">All</button>
+        <button class="filter-btn" data-filter=".covers">Covers</button>
+        <button class="filter-btn" data-filter=".abstracts">Abstracts</button>
+        <button class="filter-btn" data-filter=".other">Other</button>
+    </div>
+
+    <!-- Gallery -->
+    <div class="portfolio-grid"></div>
+
+    <!-- JS Libraries -->
+     <script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,179 @@
+[
+    {
+        "src": "assets/graphics/covers/coverA1.jpg",
+        "category": "covers",
+        "title": "coverA1",
+        "description": "CO<sub>2</sub> harvesting from N<sub>2</sub> using Grazyne membranes (for A. Calzada)",
+        "date": "03-10-2025"
+    },
+    {
+        "src": "assets/graphics/covers/coverD1.jpg",
+        "category": "covers",
+        "title": "coverD1",
+        "description": "Exploring the photoactive properties of promising MXenes for water splitting",
+        "date": "03-1-2025"
+    },
+    {
+        "src": "assets/graphics/covers/coverE1.jpg",
+        "category": "covers",
+        "title": "coverE1",
+        "description": "PhD Thesis Cover (for E. Romeo)",
+        "date": "03-10-2025"
+    },
+    {
+        "src": "assets/graphics/covers/coverN1.jpg",
+        "category": "covers",
+        "title": "coverN1",
+        "description": "Towards realistic modelling of MXene flakes (for N. García-Romeral)",
+        "date": "09-09-2025"
+    },
+    {
+        "src": "assets/graphics/abstracts/ga1.png",
+        "category": "abstracts",
+        "title": "ga1",
+        "description": "Bandgap engineering of MXene compounds for water splitting (published in JMCA)",
+        "date": "24-03-2023"
+    },
+    {
+        "src": "assets/graphics/abstracts/ga2.jpg",
+        "category": "abstracts",
+        "title": "ga2",
+        "description": "Big screening of MXenes for photocatalytic water splitting (published in EEM)",
+        "date": "27-06-2024"
+    },
+    {
+        "src": "assets/graphics/abstracts/ga3.1.jpg",
+        "category": "abstracts",
+        "title": "ga3.1",
+        "description": "Exploring the photoactive properties of promising MXenes for water splitting (published in JMCA)",
+        "date": "25-09-2024"
+    },
+    {
+        "src": "assets/graphics/abstracts/ga3.2.jpg",
+        "category": "abstracts",
+        "title": "ga3.2",
+        "description": "MXenes photocatalytic talent show (fun figure of my work)",
+        "date": "26-05-2024"
+    },
+    {
+        "src": "assets/graphics/abstracts/ga4.png",
+        "thumb": "assets/graphics/abstracts/ga4.png",
+        "category": "abstracts",
+        "title": "ga4",
+        "description": "MXgap: A MXene Learning Tool for Bandgap Prediction (published in ACSC)",
+        "date": "05-08-2025"
+    },
+    {
+        "src": "assets/graphics/abstracts/ga5.png",
+        "category": "abstracts",
+        "title": "ga5",
+        "description": "Computational Pourbaix diagrams of MXenes in the excited state (published in ACS AM&I)",
+        "date": "30-10-2025"
+    },
+    {
+        "src": "assets/graphics/abstracts/gaC1.jpg",
+        "category": "abstracts",
+        "title": "gaC1",
+        "description": "Exploring the photoactive properties of COF materials for water splitting (published in XXX, as part of a colaboration with C. Wang)",
+        "date": "29-10-2025"
+    },
+    {
+        "src": "assets/graphics/abstracts/gaM1.png",
+        "category": "abstracts",
+        "title": "gaM1",
+        "description": "Modeling MXene flakes and its electronic properties (for M. Allès, published in XXX)",
+        "date": "15-11-2025"
+    },
+    {
+        "src": "assets/graphics/other/compchem.jpg",
+        "category": "other",
+        "title": "compchem",
+        "description": "Computational chemistry (for science dissemination)",
+        "date": "03-02-2024"
+    },
+    {
+        "src": "assets/graphics/other/h2_eevee.jpg",
+        "category": "other",
+        "title": "h2_eevee",
+        "description": "Orbitals of the H<sub>2</sub> molecule (for my webpage)",
+        "date": "25-09-2023"
+    },
+    {
+        "src": "assets/graphics/other/MDparallel.jpg",
+        "category": "other",
+        "title": "MDparallel",
+        "description": "Parallelization in Molecular Dynamics (for my webpage)",
+        "date": "26-09-2023"
+    },
+    {
+        "src": "assets/graphics/other/mxgap_logo.png",
+        "thumb": "assets/graphics/other/mxgap_logo.png",
+        "category": "other",
+        "title": "mxgap_logo",
+        "description": "MXgap logo (for a Python program I developed)",
+        "date": "2025-10-03"
+    },
+    {
+        "src": "assets/graphics/other/nn.jpg",
+        "category": "other",
+        "title": "nn",
+        "description": "Neural Networks (for my webpage)",
+        "date": "26-09-2023"
+    },
+    {
+        "src": "assets/graphics/other/p1_diego_ontiveros.png",
+        "category": "other",
+        "title": "p1_diego_ontiveros",
+        "description": "Molecules adsorbed into nanoparticles (from a Blender Science course)",
+        "date": "25-10-2024"
+    },
+    {
+        "src": "assets/graphics/other/p2_diego_ontiveros.png",
+        "category": "other",
+        "title": "p2_diego_ontiveros",
+        "description": "Portal-like DNA strand (from a Blender Science course)",
+        "date": "25-10-2024"
+    },
+    {
+        "src": "assets/graphics/other/p3_diego_ontiveros.png",
+        "category": "other",
+        "title": "p3_diego_ontiveros",
+        "description": "H3PP molecule adsorbed on to Ti<sub>3</sub>C<sub>2</sub> surface (from a Blender Science course)",
+        "date": "25-10-2024"
+    },
+    {
+        "src": "assets/graphics/other/p4_diego_ontiveros.png",
+        "category": "other",
+        "title": "p4_diego_ontiveros",
+        "description": "Braaaaains .... (from a Blender Science course)",
+        "date": "26-10-2024"
+    },
+    {
+        "src": "assets/graphics/other/p5_diego_ontiveros.png",
+        "category": "other",
+        "title": "p5_diego_ontiveros",
+        "description": "Antibody killing virus (from a Blender Science course)",
+        "date": "26-10-2024"
+    },
+    {
+        "src": "assets/graphics/other/sarscov2_diego_ontiveros.png",
+        "category": "other",
+        "title": "sarscov2_diego_ontiveros",
+        "description": "SarsCov2 virus (from a Blender Science course)",
+        "date": "27-10-2024"
+    },
+    {
+        "src": "assets/graphics/other/tocC.png",
+        "category": "other",
+        "title": "tocC",
+        "description": "Single atom catalysis in Grazyne (for C. Wang, published in XXX)",
+        "date": "13-06-2025"
+    },
+    {
+        "src": "assets/graphics/other/vinyl.jpg",
+        "category": "other",
+        "title": "vinyl",
+        "description": "My vinyl record collection (for my webpage)",
+        "date": "26-09-2023"
+    }
+]
