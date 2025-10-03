@@ -91,15 +91,10 @@ header h1 {
   justify-content: center; /* center grid */
 }
 
-/* .portfolio-item {
-  min-width: 30%;
-  margin: 10px;
-} */
-
 
 
 .portfolio-item {
-  width: 300px;
+  width: 30%;
   margin: 10px;
   background: white;
   border-radius: 10px;
