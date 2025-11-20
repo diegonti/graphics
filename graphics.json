@@ -28,6 +28,13 @@
         "date": "09-09-2025"
     },
     {
+        "src": "assets/graphics/covers/coverW1.jpg",
+        "category": "covers",
+        "title": "coverW1",
+        "description": "Carbon support curvature modulates CO<sub>2</sub> activation on molybdenum carbide clusters ()",
+        "date": "20-11-2025"
+    },
+    {
         "src": "assets/graphics/abstracts/ga1.png",
         "category": "abstracts",
         "title": "ga1",
@@ -78,7 +85,7 @@
         "date": "29-10-2025"
     },
     {
-        "src": "assets/graphics/abstracts/gaM1.png",
+        "src": "assets/graphics/abstracts/gaM1.jpg",
         "category": "abstracts",
         "title": "gaM1",
         "description": "Modeling MXene flakes and its electronic properties (for M. Allès, published in XXX)",
