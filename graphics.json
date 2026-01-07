@@ -92,6 +92,13 @@
         "date": "15-11-2025"
     },
     {
+        "src": "assets/graphics/other/tocC.png",
+        "category": "other",
+        "title": "tocC",
+        "description": "Single atom catalysis in Grazyne (for C. Wang, published in IJHE)",
+        "date": "13-06-2025"
+    },
+    {
         "src": "assets/graphics/other/compchem.jpg",
         "category": "other",
         "title": "compchem",
@@ -168,13 +175,6 @@
         "title": "sarscov2_diego_ontiveros",
         "description": "SarsCov2 virus (from a Blender Science course)",
         "date": "27-10-2024"
-    },
-    {
-        "src": "assets/graphics/other/tocC.png",
-        "category": "other",
-        "title": "tocC",
-        "description": "Single atom catalysis in Grazyne (for C. Wang, published in XXX)",
-        "date": "13-06-2025"
     },
     {
         "src": "assets/graphics/other/vinyl.jpg",
